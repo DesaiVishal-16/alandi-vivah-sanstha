@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap-stylesheet.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>/blogs/post1/</loc>
+    <lastmod>2025-10-31T04:32:14+00:00</lastmod>
+    <image:image>
+      <image:loc>/wp-content/uploads/2025/10/New-Project.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>/blogs/</loc>
+    <lastmod>2025-10-31T08:20:33+00:00</lastmod>
+    <image:image>
+      <image:loc>/wp-content/uploads/2025/10/New-Project.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>/</loc>
+    <lastmod>2025-10-31T04:48:15+00:00</lastmod>
+    <image:image>
+      <image:loc>/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg</image:loc>
+    </image:image>
+  </url>
+</urlset>
