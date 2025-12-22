@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://courtmarriagealandi.com/sitemap.xml
+Sitemap: https://courtmarriagealandi.com/post-type-page-sitemap-1.xml
+Sitemap: https://courtmarriagealandi.com/post-type-post-sitemap-1.xml
